@@ -6,19 +6,10 @@
     <description>Recent content on A Musings Coner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2016 15:30:55 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 24 Apr 2016 13:52:44 +0530</lastBuildDate>
     
 	<atom:link href="http://amusingcorner.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ignorance</title>
-      <link>http://amusingcorner.github.io/blog/ignorance/</link>
-      <pubDate>Tue, 10 May 2016 15:30:55 +0530</pubDate>
-      
-      <guid>http://amusingcorner.github.io/blog/ignorance/</guid>
-      <description>This ignorance doesn&amp;rsquo;t bother me. I know you&amp;rsquo;ve got family friends and I am assuming that you&amp;rsquo;ve probably got someone else in your life too by now.. its been 6 months. But here I am dying from inside bit by bit. Every trip I go to, every book I read, every day I come back from office, every morning I wake up, I feel how important you were in my life.</description>
-    </item>
     
     <item>
       <title>about me</title>
@@ -79,15 +70,6 @@ Just one right or wrong decision doesn&amp;rsquo;t ensure whether you are going 
       <guid>http://amusingcorner.github.io/blog/failure-and-trying/</guid>
       <description>By failing again and again, I have tried all those paths which does not take me to success.
 Now I am only left with one path and I now where exactly it leads to.</description>
-    </item>
-    
-    <item>
-      <title>Working at startup</title>
-      <link>http://amusingcorner.github.io/blog/working-at-startup/</link>
-      <pubDate>Thu, 04 Feb 2016 11:59:54 +0530</pubDate>
-      
-      <guid>http://amusingcorner.github.io/blog/working-at-startup/</guid>
-      <description>Working at a startup can be compared to a situation where you are a hungry person and you have a locked box with you. This box is filled with food. The lock on box automatically opens after 3rd day. Not exactly on 3rd day but random day after 3rd day.. And this number 3 which can be any other number is based upon observing so many other hungry people&amp;rsquo;s boxes. Don&amp;rsquo;t worry about dying by hunger, you&amp;rsquo;ll be given one peanut every hour until the box opens.</description>
     </item>
     
   </channel>
