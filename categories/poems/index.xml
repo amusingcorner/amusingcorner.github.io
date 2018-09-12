@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poems on Kuch ankahi si baatein</title>
-    <link>http://kuchankahi.github.io/categories/poems/</link>
-    <description>Recent content in Poems on Kuch ankahi si baatein</description>
+    <title>Poems on A Musings Coner</title>
+    <link>http://amusingcorner.github.io/categories/poems/</link>
+    <description>Recent content in Poems on A Musings Coner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Apr 2016 14:01:31 +0530</lastBuildDate>
-    <atom:link href="http://kuchankahi.github.io/categories/poems/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://amusingcorner.github.io/categories/poems/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>तैरना सीख ले</title>
-      <link>http://kuchankahi.github.io/blog/tairna-seekh-le/</link>
+      <link>http://amusingcorner.github.io/blog/tairna-seekh-le/</link>
       <pubDate>Wed, 20 Apr 2016 14:01:31 +0530</pubDate>
       
-      <guid>http://kuchankahi.github.io/blog/tairna-seekh-le/</guid>
-      <description>&lt;!-- &#34;Poem about realizing the truth that someone has gone, either you prep to reach there or keep waiting for them&#34; --&gt;
-
-&lt;p&gt;&lt;br&gt;
-तुम जा रहे हो दूर मुझसे हर पल,&lt;br&gt;
-पर ये दिल है की खुद को ही छलने में लगा है।&lt;/p&gt;
-
-&lt;p&gt;नादां है की नहीं जानता इतनी सी बात,&lt;br&gt;
-वो जा चुका है समंदर के उस पार ।&lt;/p&gt;
-
-&lt;p&gt;या तो तैरना सीख ले, या युहीं बैठा रह किनारे पर,&lt;br&gt;
-इस आस में कि वो लौट के आएगा इस पार।&lt;/p&gt;
-</description>
+      <guid>http://amusingcorner.github.io/blog/tairna-seekh-le/</guid>
+      <description>तुम जा रहे हो दूर मुझसे हर पल,
+पर ये दिल है की खुद को ही छलने में लगा है।
+नादां है की नहीं जानता इतनी सी बात,
+वो जा चुका है समंदर के उस पार ।
+या तो तैरना सीख ले, या युहीं बैठा रह किनारे पर,
+इस आस में कि वो लौट के आएगा इस पार।</description>
     </item>
     
   </channel>

@@ -1,54 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kuchankahi.github.io/</loc>
+    <loc>http://amusingcorner.github.io/blog/ignorance/</loc>
     <lastmod>2016-05-10T15:30:55+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kuchankahi.github.io/blog/ignorance/</loc>
-    <lastmod>2016-05-10T15:30:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kuchankahi.github.io/about/</loc>
+    <loc>http://amusingcorner.github.io/about/</loc>
     <lastmod>2016-04-24T13:52:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kuchankahi.github.io/blog/tairna-seekh-le/</loc>
+    <loc>http://amusingcorner.github.io/blog/tairna-seekh-le/</loc>
     <lastmod>2016-04-20T14:01:31+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kuchankahi.github.io/blog/choices-decision-goals/</loc>
+    <loc>http://amusingcorner.github.io/blog/choices-decision-goals/</loc>
     <lastmod>2016-03-11T11:24:53+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kuchankahi.github.io/blog/courage-and-confidence/</loc>
+    <loc>http://amusingcorner.github.io/blog/courage-and-confidence/</loc>
     <lastmod>2016-03-05T11:22:02+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kuchankahi.github.io/blog/situations-and-answers/</loc>
+    <loc>http://amusingcorner.github.io/blog/situations-and-answers/</loc>
     <lastmod>2016-03-05T11:17:28+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kuchankahi.github.io/blog/failure-and-trying/</loc>
+    <loc>http://amusingcorner.github.io/blog/failure-and-trying/</loc>
     <lastmod>2016-03-05T11:14:21+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kuchankahi.github.io/blog/working-at-startup/</loc>
+    <loc>http://amusingcorner.github.io/blog/working-at-startup/</loc>
     <lastmod>2016-02-04T11:59:54+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kuchankahi.github.io/blog/7-years-of-love/</loc>
-    <lastmod>2016-01-24T20:54:41+05:30</lastmod>
+    <loc>http://amusingcorner.github.io/</loc>
+    <lastmod>2016-05-10T15:30:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amusingcorner.github.io/tags/bhutan/</loc>
+    <lastmod>2016-03-11T11:24:53+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amusingcorner.github.io/blog/</loc>
+    <lastmod>2016-05-10T15:30:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amusingcorner.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amusingcorner.github.io/tags/kodai/</loc>
+    <lastmod>2016-03-05T11:22:02+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amusingcorner.github.io/categories/poems/</loc>
+    <lastmod>2016-04-20T14:01:31+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amusingcorner.github.io/tags/</loc>
+    <lastmod>2016-03-11T11:24:53+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amusingcorner.github.io/categories/thoughts/</loc>
+    <lastmod>2016-05-10T15:30:55+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
