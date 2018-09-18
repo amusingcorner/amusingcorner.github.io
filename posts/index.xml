@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Musings Coner</title>
-    <link>http://amusingcorner.github.io/</link>
-    <description>Recent content on A Musings Coner</description>
+    <title>Posts on A Musings Coner</title>
+    <link>http://amusingcorner.github.io/posts/</link>
+    <description>Recent content in Posts on A Musings Coner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Apr 2016 13:52:44 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 14:01:31 +0530</lastBuildDate>
     
-	<atom:link href="http://amusingcorner.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://amusingcorner.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>about me</title>
-      <link>http://amusingcorner.github.io/about/</link>
-      <pubDate>Sun, 24 Apr 2016 13:52:44 +0530</pubDate>
-      
-      <guid>http://amusingcorner.github.io/about/</guid>
-      <description>Wait for it&amp;hellip;.</description>
-    </item>
     
     <item>
       <title>तैरना सीख ले</title>
